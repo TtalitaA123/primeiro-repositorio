@@ -1,8 +1,16 @@
 body {
-   
+
 }
 
-img {
+h1 {
+    color: #000000;
+}
+
+.titulo-principal {
+    padding-left: 25px;
+}
+
+.banner {
     width: 100%;
 }
 
@@ -11,7 +19,7 @@ img {
     padding: 30px;
 }
 
-h1 {
+h2 {
     text-align: center;
 }
 
@@ -29,7 +37,7 @@ em strong {
     padding: 20px;
 }
 
-h2 {
+h3 {
     text-align: center;
 }
 
